@@ -1,8 +1,5 @@
 @media screen and (max-width: 1005px) {
-    * {
-        text-align: center;
-    }
-
+    
     .navbar {
         position: relative;
     }
